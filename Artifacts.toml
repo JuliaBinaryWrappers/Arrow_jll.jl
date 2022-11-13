@@ -5,7 +5,7 @@ os = "macos"
 
     [[Arrow.download]]
     sha256 = "9c54d284632497d67bb023a98792dc43d0064194438628af13899d92bd3300f7"
-    url = "https://github.com/JuliaBinaryWrappers/Arrow_jll.jl/releases/download/Arrow-v10.0.0+0/Arrow.v10.0.0.aarch64-apple-darwin.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arrow_jll.jl/releases/download/Arrow-v10.0.0+1/Arrow.v10.0.0.aarch64-apple-darwin.tar.gz"
 [[Arrow]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
@@ -15,7 +15,7 @@ os = "linux"
 
     [[Arrow.download]]
     sha256 = "d1b60e9a1a09561567600d87ab940dee3bc4ff801e1fbfdbf0d1d324dd4ae183"
-    url = "https://github.com/JuliaBinaryWrappers/Arrow_jll.jl/releases/download/Arrow-v10.0.0+0/Arrow.v10.0.0.aarch64-linux-gnu-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arrow_jll.jl/releases/download/Arrow-v10.0.0+1/Arrow.v10.0.0.aarch64-linux-gnu-cxx03.tar.gz"
 [[Arrow]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -25,7 +25,7 @@ os = "linux"
 
     [[Arrow.download]]
     sha256 = "d6c716dee8784f67846e6f9b85828a80a996f70db8729a68f6a0dea529a812e6"
-    url = "https://github.com/JuliaBinaryWrappers/Arrow_jll.jl/releases/download/Arrow-v10.0.0+0/Arrow.v10.0.0.aarch64-linux-gnu-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arrow_jll.jl/releases/download/Arrow-v10.0.0+1/Arrow.v10.0.0.aarch64-linux-gnu-cxx11.tar.gz"
 [[Arrow]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
@@ -35,7 +35,7 @@ os = "linux"
 
     [[Arrow.download]]
     sha256 = "0ee391f85d290e34aeb5eb19354d27447434d6050c5bd6a0267e41391ffb328d"
-    url = "https://github.com/JuliaBinaryWrappers/Arrow_jll.jl/releases/download/Arrow-v10.0.0+0/Arrow.v10.0.0.aarch64-linux-musl-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arrow_jll.jl/releases/download/Arrow-v10.0.0+1/Arrow.v10.0.0.aarch64-linux-musl-cxx03.tar.gz"
 [[Arrow]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -45,7 +45,7 @@ os = "linux"
 
     [[Arrow.download]]
     sha256 = "a6e5ed90f58c0b03130a5852b122cfcf0cffa82d1cfb945271a3929b04093843"
-    url = "https://github.com/JuliaBinaryWrappers/Arrow_jll.jl/releases/download/Arrow-v10.0.0+0/Arrow.v10.0.0.aarch64-linux-musl-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arrow_jll.jl/releases/download/Arrow-v10.0.0+1/Arrow.v10.0.0.aarch64-linux-musl-cxx11.tar.gz"
 [[Arrow]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -56,7 +56,7 @@ os = "linux"
 
     [[Arrow.download]]
     sha256 = "b8907c43e67adc04d2fca2b14542a82d930b9b9d5683400986407fb54bc9a8db"
-    url = "https://github.com/JuliaBinaryWrappers/Arrow_jll.jl/releases/download/Arrow-v10.0.0+0/Arrow.v10.0.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arrow_jll.jl/releases/download/Arrow-v10.0.0+1/Arrow.v10.0.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
 [[Arrow]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -67,7 +67,7 @@ os = "linux"
 
     [[Arrow.download]]
     sha256 = "9afee32a1840e7ab6716c98c6ad8210a3db8402ba8c1f6f25a6c4b130e2a1446"
-    url = "https://github.com/JuliaBinaryWrappers/Arrow_jll.jl/releases/download/Arrow-v10.0.0+0/Arrow.v10.0.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arrow_jll.jl/releases/download/Arrow-v10.0.0+1/Arrow.v10.0.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[Arrow]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -78,7 +78,7 @@ os = "linux"
 
     [[Arrow.download]]
     sha256 = "5ce2584575f445054b513d1a9d7a5792fae4bc5e94c97e387b1a60709e57c67e"
-    url = "https://github.com/JuliaBinaryWrappers/Arrow_jll.jl/releases/download/Arrow-v10.0.0+0/Arrow.v10.0.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arrow_jll.jl/releases/download/Arrow-v10.0.0+1/Arrow.v10.0.0.armv6l-linux-musleabihf-cxx03.tar.gz"
 [[Arrow]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -89,7 +89,7 @@ os = "linux"
 
     [[Arrow.download]]
     sha256 = "4776f8a39f967de95c93ff7a23d638029a8c3d8206322d34a1354e321989d0e4"
-    url = "https://github.com/JuliaBinaryWrappers/Arrow_jll.jl/releases/download/Arrow-v10.0.0+0/Arrow.v10.0.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arrow_jll.jl/releases/download/Arrow-v10.0.0+1/Arrow.v10.0.0.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[Arrow]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -100,7 +100,7 @@ os = "linux"
 
     [[Arrow.download]]
     sha256 = "800f1454fe331458d374f134c5090919320772e00a8d9e5976f1a185418366b0"
-    url = "https://github.com/JuliaBinaryWrappers/Arrow_jll.jl/releases/download/Arrow-v10.0.0+0/Arrow.v10.0.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arrow_jll.jl/releases/download/Arrow-v10.0.0+1/Arrow.v10.0.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[Arrow]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -111,7 +111,7 @@ os = "linux"
 
     [[Arrow.download]]
     sha256 = "1686e2dd7f623d1c456cbe3a3f78584ad0d091f7f68d0eb37e07c6fa64823cf0"
-    url = "https://github.com/JuliaBinaryWrappers/Arrow_jll.jl/releases/download/Arrow-v10.0.0+0/Arrow.v10.0.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arrow_jll.jl/releases/download/Arrow-v10.0.0+1/Arrow.v10.0.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[Arrow]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -122,7 +122,7 @@ os = "linux"
 
     [[Arrow.download]]
     sha256 = "f75ea38caf13100b25e7c6da8501b7089acc0fa4ecd80b211ec1d7bdcb2c6113"
-    url = "https://github.com/JuliaBinaryWrappers/Arrow_jll.jl/releases/download/Arrow-v10.0.0+0/Arrow.v10.0.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arrow_jll.jl/releases/download/Arrow-v10.0.0+1/Arrow.v10.0.0.armv7l-linux-musleabihf-cxx03.tar.gz"
 [[Arrow]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -133,7 +133,7 @@ os = "linux"
 
     [[Arrow.download]]
     sha256 = "39b4c501f8593e6e8c8ae3fcf2d536179c98977939706a13bc1ce8471e244de5"
-    url = "https://github.com/JuliaBinaryWrappers/Arrow_jll.jl/releases/download/Arrow-v10.0.0+0/Arrow.v10.0.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arrow_jll.jl/releases/download/Arrow-v10.0.0+1/Arrow.v10.0.0.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[Arrow]]
 arch = "i686"
 cxxstring_abi = "cxx03"
@@ -143,7 +143,7 @@ os = "linux"
 
     [[Arrow.download]]
     sha256 = "213c6078bd10078da8da80ee46ac464532b2adeca97107d896caeb011126b023"
-    url = "https://github.com/JuliaBinaryWrappers/Arrow_jll.jl/releases/download/Arrow-v10.0.0+0/Arrow.v10.0.0.i686-linux-gnu-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arrow_jll.jl/releases/download/Arrow-v10.0.0+1/Arrow.v10.0.0.i686-linux-gnu-cxx03.tar.gz"
 [[Arrow]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -153,7 +153,7 @@ os = "linux"
 
     [[Arrow.download]]
     sha256 = "d3d381b660f1fa1a3587be69caa00ef855ea37989d8054ff95e78032c6053fe8"
-    url = "https://github.com/JuliaBinaryWrappers/Arrow_jll.jl/releases/download/Arrow-v10.0.0+0/Arrow.v10.0.0.i686-linux-gnu-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arrow_jll.jl/releases/download/Arrow-v10.0.0+1/Arrow.v10.0.0.i686-linux-gnu-cxx11.tar.gz"
 [[Arrow]]
 arch = "i686"
 cxxstring_abi = "cxx03"
@@ -163,7 +163,7 @@ os = "linux"
 
     [[Arrow.download]]
     sha256 = "6938c4e72ef8d671fcd5d2986b8bee5574c8c84fa32e9550fdbf886d9fcb8caf"
-    url = "https://github.com/JuliaBinaryWrappers/Arrow_jll.jl/releases/download/Arrow-v10.0.0+0/Arrow.v10.0.0.i686-linux-musl-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arrow_jll.jl/releases/download/Arrow-v10.0.0+1/Arrow.v10.0.0.i686-linux-musl-cxx03.tar.gz"
 [[Arrow]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -173,25 +173,25 @@ os = "linux"
 
     [[Arrow.download]]
     sha256 = "9d6565995ab437504f2bb96b71d53cd0f4b27ae72e937d0594f21e769e48b324"
-    url = "https://github.com/JuliaBinaryWrappers/Arrow_jll.jl/releases/download/Arrow-v10.0.0+0/Arrow.v10.0.0.i686-linux-musl-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arrow_jll.jl/releases/download/Arrow-v10.0.0+1/Arrow.v10.0.0.i686-linux-musl-cxx11.tar.gz"
 [[Arrow]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "8c1b2b6c818c964b03813b9951f9feae0c419597"
+git-tree-sha1 = "812355ed57612e2b6a78f648c75c6fb4df537b7f"
 os = "windows"
 
     [[Arrow.download]]
-    sha256 = "c4cef92dce28ce33f23fd29e9224a6a5ed39d36d6e971baa3cfa0e5527c9a7aa"
-    url = "https://github.com/JuliaBinaryWrappers/Arrow_jll.jl/releases/download/Arrow-v10.0.0+0/Arrow.v10.0.0.i686-w64-mingw32-cxx03.tar.gz"
+    sha256 = "dad281fd4db31141aa53f07a2d44c589a7b6b3d8edc971e39d76a77d97d5ac33"
+    url = "https://github.com/JuliaBinaryWrappers/Arrow_jll.jl/releases/download/Arrow-v10.0.0+1/Arrow.v10.0.0.i686-w64-mingw32-cxx03.tar.gz"
 [[Arrow]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2a68f5185931eaf51ff0035334bfcc880ce01f7b"
+git-tree-sha1 = "c88d0681d7a57c4119c8eb3d925dcc5ded04f6e2"
 os = "windows"
 
     [[Arrow.download]]
-    sha256 = "d1cdc9a0e6d174e654f9dd2d05b4169e4f4995f2b1c4dcdaedb00614b11eef7d"
-    url = "https://github.com/JuliaBinaryWrappers/Arrow_jll.jl/releases/download/Arrow-v10.0.0+0/Arrow.v10.0.0.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "7dd2c8ed1718b2addb8bfa81f4fc5cf018de741240f44c8ba506a04ca8699c59"
+    url = "https://github.com/JuliaBinaryWrappers/Arrow_jll.jl/releases/download/Arrow-v10.0.0+1/Arrow.v10.0.0.i686-w64-mingw32-cxx11.tar.gz"
 [[Arrow]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
@@ -201,7 +201,7 @@ os = "linux"
 
     [[Arrow.download]]
     sha256 = "02cdbabec5ce496e1c4ce02a04159cbb4f78d0c4a04cceebcbd4e87cfab2119d"
-    url = "https://github.com/JuliaBinaryWrappers/Arrow_jll.jl/releases/download/Arrow-v10.0.0+0/Arrow.v10.0.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arrow_jll.jl/releases/download/Arrow-v10.0.0+1/Arrow.v10.0.0.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[Arrow]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
@@ -211,7 +211,7 @@ os = "linux"
 
     [[Arrow.download]]
     sha256 = "1662985a3cb7bc087c0195a1d4963fd28732e159d66730fbd929f3a5d0d96fc2"
-    url = "https://github.com/JuliaBinaryWrappers/Arrow_jll.jl/releases/download/Arrow-v10.0.0+0/Arrow.v10.0.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arrow_jll.jl/releases/download/Arrow-v10.0.0+1/Arrow.v10.0.0.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[Arrow]]
 arch = "x86_64"
 git-tree-sha1 = "8fdd6b95668e2c77c0be8330902b4636131704c2"
@@ -219,7 +219,7 @@ os = "macos"
 
     [[Arrow.download]]
     sha256 = "133aa4d52d2c17d1fa5bf87e76964cf6cbbe3a3159621c4e9038485625c6b69b"
-    url = "https://github.com/JuliaBinaryWrappers/Arrow_jll.jl/releases/download/Arrow-v10.0.0+0/Arrow.v10.0.0.x86_64-apple-darwin.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arrow_jll.jl/releases/download/Arrow-v10.0.0+1/Arrow.v10.0.0.x86_64-apple-darwin.tar.gz"
 [[Arrow]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -229,7 +229,7 @@ os = "linux"
 
     [[Arrow.download]]
     sha256 = "ca58baed347c55800fbf75cae70e480abde4de23181bd874145aca183a063e59"
-    url = "https://github.com/JuliaBinaryWrappers/Arrow_jll.jl/releases/download/Arrow-v10.0.0+0/Arrow.v10.0.0.x86_64-linux-gnu-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arrow_jll.jl/releases/download/Arrow-v10.0.0+1/Arrow.v10.0.0.x86_64-linux-gnu-cxx03.tar.gz"
 [[Arrow]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -239,7 +239,7 @@ os = "linux"
 
     [[Arrow.download]]
     sha256 = "2e05437a79bdc6281a51e718537482846ae0361d698fb0e3b83b46504b75a43d"
-    url = "https://github.com/JuliaBinaryWrappers/Arrow_jll.jl/releases/download/Arrow-v10.0.0+0/Arrow.v10.0.0.x86_64-linux-gnu-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arrow_jll.jl/releases/download/Arrow-v10.0.0+1/Arrow.v10.0.0.x86_64-linux-gnu-cxx11.tar.gz"
 [[Arrow]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -249,7 +249,7 @@ os = "linux"
 
     [[Arrow.download]]
     sha256 = "c52573acc60388f5a0f03bc98629ef7765640c2d699ecf9d54625dd4dda082b6"
-    url = "https://github.com/JuliaBinaryWrappers/Arrow_jll.jl/releases/download/Arrow-v10.0.0+0/Arrow.v10.0.0.x86_64-linux-musl-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arrow_jll.jl/releases/download/Arrow-v10.0.0+1/Arrow.v10.0.0.x86_64-linux-musl-cxx03.tar.gz"
 [[Arrow]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -259,7 +259,7 @@ os = "linux"
 
     [[Arrow.download]]
     sha256 = "86e534adff853575ab1440d6fc6fc0493d5523b6802948e30014de057de3ca88"
-    url = "https://github.com/JuliaBinaryWrappers/Arrow_jll.jl/releases/download/Arrow-v10.0.0+0/Arrow.v10.0.0.x86_64-linux-musl-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arrow_jll.jl/releases/download/Arrow-v10.0.0+1/Arrow.v10.0.0.x86_64-linux-musl-cxx11.tar.gz"
 [[Arrow]]
 arch = "x86_64"
 git-tree-sha1 = "5d677c36bf1edfe0b6a25112cb06bf1d02573131"
@@ -267,22 +267,22 @@ os = "freebsd"
 
     [[Arrow.download]]
     sha256 = "827469b114bfbedd67e1431ceb736db81a5036ffbadd2da9fd7ef0ba8035c2d4"
-    url = "https://github.com/JuliaBinaryWrappers/Arrow_jll.jl/releases/download/Arrow-v10.0.0+0/Arrow.v10.0.0.x86_64-unknown-freebsd.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arrow_jll.jl/releases/download/Arrow-v10.0.0+1/Arrow.v10.0.0.x86_64-unknown-freebsd.tar.gz"
 [[Arrow]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "94a206f2c9f4badcfb4ea289de6f1a34e7340a27"
+git-tree-sha1 = "137cc646bc4ce202becffed251f0f884ba9ce396"
 os = "windows"
 
     [[Arrow.download]]
-    sha256 = "3641ab28133c31fe77021737ab6895de2b18bc6d853523771af3830cf9a22893"
-    url = "https://github.com/JuliaBinaryWrappers/Arrow_jll.jl/releases/download/Arrow-v10.0.0+0/Arrow.v10.0.0.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "de09e7d93829f7c157ffe70e2a8ccc345969575fda8d165cb2c5ffad2d662181"
+    url = "https://github.com/JuliaBinaryWrappers/Arrow_jll.jl/releases/download/Arrow-v10.0.0+1/Arrow.v10.0.0.x86_64-w64-mingw32-cxx03.tar.gz"
 [[Arrow]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "401a7179c8e42af85c5cc87cc9326d5b8e5db9b6"
+git-tree-sha1 = "dcd0721a2a49cfb8916395419701035173b57955"
 os = "windows"
 
     [[Arrow.download]]
-    sha256 = "beacedc647268d1c6ea86498d3a37cb33a7ffbcc9266df6e7f696a68be4ac852"
-    url = "https://github.com/JuliaBinaryWrappers/Arrow_jll.jl/releases/download/Arrow-v10.0.0+0/Arrow.v10.0.0.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "cd7192f15f64d395766adb24b07e82af2f3f764e4d0b33550b43ef5df1ae18ab"
+    url = "https://github.com/JuliaBinaryWrappers/Arrow_jll.jl/releases/download/Arrow-v10.0.0+1/Arrow.v10.0.0.x86_64-w64-mingw32-cxx11.tar.gz"

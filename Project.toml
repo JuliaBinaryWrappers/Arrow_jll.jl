@@ -1,6 +1,6 @@
 name = "Arrow_jll"
 uuid = "8ce61222-c28f-5041-a97a-c2198fb817bf"
-version = "10.0.0+0"
+version = "10.0.0+1"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
