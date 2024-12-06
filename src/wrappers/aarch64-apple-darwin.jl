@@ -15,19 +15,19 @@ function __init__()
     JLLWrappers.@generate_init_header(boost_jll, Zlib_jll, Bzip2_jll, Lz4_jll, Thrift_jll, snappy_jll)
     JLLWrappers.@init_library_product(
         libarrow,
-        "lib/libarrow.1000.0.0.dylib",
+        "lib/libarrow.1000.1.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libarrow_dataset,
-        "lib/libarrow_dataset.1000.0.0.dylib",
+        "lib/libarrow_dataset.1000.1.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libparquet,
-        "lib/libparquet.1000.0.0.dylib",
+        "lib/libparquet.1000.1.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
