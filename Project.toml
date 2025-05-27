@@ -1,6 +1,6 @@
 name = "Arrow_jll"
 uuid = "8ce61222-c28f-5041-a97a-c2198fb817bf"
-version = "19.0.0+0"
+version = "19.0.1+0"
 
 [deps]
 Zlib_jll = "83775a58-1f1d-513f-b197-d71354ab007a"
