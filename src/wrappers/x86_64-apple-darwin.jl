@@ -8,28 +8,29 @@ using Zlib_jll
 using Zstd_jll
 using boost_jll
 using brotli_jll
+using rapidjson_jll
 using snappy_jll
 JLLWrappers.@generate_wrapper_header("Arrow")
-JLLWrappers.@declare_library_product(libarrow, "@rpath/libarrow.1900.dylib")
-JLLWrappers.@declare_library_product(libarrow_dataset, "@rpath/libarrow_dataset.1900.dylib")
-JLLWrappers.@declare_library_product(libparquet, "@rpath/libparquet.1900.dylib")
+JLLWrappers.@declare_library_product(libarrow, "@rpath/libarrow.2400.dylib")
+JLLWrappers.@declare_library_product(libarrow_dataset, "@rpath/libarrow_dataset.2400.dylib")
+JLLWrappers.@declare_library_product(libparquet, "@rpath/libparquet.2400.dylib")
 function __init__()
-    JLLWrappers.@generate_init_header(Bzip2_jll, Lz4_jll, Thrift_jll, Zlib_jll, Zstd_jll, boost_jll, brotli_jll, snappy_jll)
+    JLLWrappers.@generate_init_header(Bzip2_jll, Lz4_jll, Thrift_jll, Zlib_jll, Zstd_jll, boost_jll, brotli_jll, rapidjson_jll, snappy_jll)
     JLLWrappers.@init_library_product(
         libarrow,
-        "lib/libarrow.1900.1.0.dylib",
+        "lib/libarrow.2400.0.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libarrow_dataset,
-        "lib/libarrow_dataset.1900.1.0.dylib",
+        "lib/libarrow_dataset.2400.0.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libparquet,
-        "lib/libparquet.1900.1.0.dylib",
+        "lib/libparquet.2400.0.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 

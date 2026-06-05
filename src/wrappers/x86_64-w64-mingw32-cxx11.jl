@@ -9,13 +9,14 @@ using Zlib_jll
 using Zstd_jll
 using boost_jll
 using brotli_jll
+using rapidjson_jll
 using snappy_jll
 JLLWrappers.@generate_wrapper_header("Arrow")
 JLLWrappers.@declare_library_product(libarrow, "libarrow.dll")
 JLLWrappers.@declare_library_product(libarrow_dataset, "libarrow_dataset.dll")
 JLLWrappers.@declare_library_product(libparquet, "libparquet.dll")
 function __init__()
-    JLLWrappers.@generate_init_header(Bzip2_jll, CompilerSupportLibraries_jll, Lz4_jll, Thrift_jll, Zlib_jll, Zstd_jll, boost_jll, brotli_jll, snappy_jll)
+    JLLWrappers.@generate_init_header(Bzip2_jll, CompilerSupportLibraries_jll, Lz4_jll, Thrift_jll, Zlib_jll, Zstd_jll, boost_jll, brotli_jll, rapidjson_jll, snappy_jll)
     JLLWrappers.@init_library_product(
         libarrow,
         "bin\\libarrow.dll",
